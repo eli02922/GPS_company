@@ -50,4 +50,4 @@ Save it locally as `input.csv`.
 ## Usage
 
 ```bash
-php your_script.php input.csv output.geojson
+php your_script.php points.csv output.geojson
